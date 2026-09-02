@@ -1,0 +1,5 @@
+This file written using fs module
+ new content added
+ something enter here
+ appaented text
+ appaented text
