@@ -7,4 +7,4 @@ fs.unlink('dummy.txt',(err)=>{
     }
     console.log('file deleted ');
     
-})
+})  
