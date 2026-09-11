@@ -10,9 +10,11 @@ console.log(parseURL.port);
 console.log(parseURL.search);
 console.log(parseURL.pathname);
 console.log(parseURL.searchParams.get('category'));
+parseURL.searchParams.append('brand','samsung')
+console.log(parseURL.href);
 
 parseURL.searchParams.delete('category')
-console.log();
+console.log(parseURL.href);
 
 
 

@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: red;
+}
+h1{
+    color: white;
+    
+}
+button{
+    padding: 6px 10px;
+    cursor: pointer;
+}
